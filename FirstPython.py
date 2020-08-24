@@ -1,3 +1,8 @@
 ###This is Python Code.
 
-Print('Hello World, Shine bright!!!')
+import time
+
+print('Welome to my repository.')
+time.sleep(2)
+print('Welome to my repository.')
+
